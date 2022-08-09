@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sumanarlert
 - 👀 I’m interested in building cool projects
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on (don't know yet
+- 💞️ I’m looking to collaborate on (don't know yet)
 - 📫 How to reach me - there's supposed to be a dm feature in github right?
 
 <!---
